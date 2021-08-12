@@ -1,0 +1,70 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap");
+
+.picc {
+  width: 50%;
+  height: 100vh;
+}
+h1 {
+  font-family: "Roboto Condensed", sans-serif;
+  margin-bottom: 0px;
+}
+#para {
+  font-family: "Roboto Condensed", sans-serif;
+  margin-top: 0px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.rem {
+  margin-right: 50px;
+  margin-top: 30px;
+}
+.pass {
+  margin-left: 40px;
+  color: rgb(15, 96, 122);
+  margin-top: 30px;
+}
+button {
+  border: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 30px 30px 0px 0px;
+  border-radius: 30px;
+  color: white;
+  background-color: rgb(15, 96, 122);
+  
+  width: 100%;
+}
+.boxx {
+  text-align: center;
+  margin: auto;
+}
+.txt {
+  font-family: "Roboto Condensed", sans-serif;
+
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-color: black;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  width: 100%;
+  margin-top: 20px;
+}
+.check {
+  margin-top: 20px;
+  width: 20px;
+  height: 40px;
+}
+.terms {
+  position: absolute;
+  padding-top: 170px;
+  margin-left: 80px;
+}
